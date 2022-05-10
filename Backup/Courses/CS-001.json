@@ -1,0 +1,1 @@
+{"course_id": "CS-001", "course_name": "Computer Science", "department": "Information Science", "credits": 3, "time": {"Lesson-1": {"Weekday": "Tuesday", "StartTime": "10:30", "EndTime": "12:10"}, "Lesson-2": {"Weekday": "Thursday", "StartTime": "14:30", "EndTime": "16:10"}}, "location": "Second floor"}
